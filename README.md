@@ -1,50 +1,90 @@
-## Good morning, Night city! 
+<div align="center">
+  <img src="https://res.cloudinary.com/dyj92ukij/image/fetch/r_4/https://i.imgur.com/WVWjVmu.gif" alt="Cyberpunk Banner" width="100%" />
+</div>
 
-Hi there! 👋 I'm Kamil, an IT student passionate about building web applications and learning new technologies.
+# Good morning, Night City
 
-### About Me
+I'm Kamil, a full-stack developer based in <img valign="middle" src="https://flagpedia.net/data/flags/emoji/twitter/256x256/pl.png" width="20" /> Poland. I focus on building fast, stable, and modern web applications. Lately, I've been dropping Node.js to build high-performance backends with <img valign="middle" width="20" src="https://skills.syvixor.com/api/icons?i=bun&theme=dark" /> Bun and <img valign="middle" width="20" src="https://skills.syvixor.com/api/icons?i=elysia&theme=dark" /> ElysiaJS. I also dive into the <img valign="middle" width="20" src="https://skills.syvixor.com/api/icons?i=papermc&theme=dark" /> Minecraft ecosystem, developing custom plugins and forks using <img valign="middle" width="20" src="https://skills.syvixor.com/api/icons?i=kotlin&theme=dark" /> Kotlin & <img valign="middle" width="20" src="https://skills.syvixor.com/api/icons?i=java&theme=dark" /> Java.
 
-🌱 I’m currently learning advanced web development techniques and exploring frameworks like React and Next.
+> [!NOTE]
+> My portfolio is currently a work in progress, but the core content is already up and running.
 
-👯 I’m looking to collaborate on beginner-friendly web application projects.
+🔗 **Portfolio:** [kznlabs.com](https://kznlabs.com)
 
-💬 Ask me about HTML, CSS, JavaScript, and how to get started with web development.
+### Current Focus
+
+- **Status:** Open to new projects, collaborations, and full-stack opportunities.
+- **Stack:** TypeScript, Bun, ElysiaJS, React, Next.js, Kotlin
+- **Previous Experience:** PHP, Python
+
+<img src="./profile/top-langs.svg" alt="Top Langs" />
+
+---
+
+### Tech Stack
+
+<p><strong>Languages & Core</strong></p>
+<img src="https://skills.syvixor.com/api/icons?i=ts,js,java,kotlin,html,css,sass&theme=dark&perline=7" />
 <br><br>
-### My Stack
 
-### 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-### 
-![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
-### 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-###
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+<p><strong>Frameworks & Backend (Web & Gaming)</strong></p>
+<img src="https://skills.syvixor.com/api/icons?i=bun,nodejs,elysiajs,express,react,nextjs,tailwindcss,tailwindmerge,styledcomponents,wxt,discordjs,papermc,mysql&theme=dark&perline=7" />
+<br><br>
 
-<br>
-<!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=kkazzann&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
+<p><strong>DevOps, Tools & Cloud</strong></p>
+<img src="https://skills.syvixor.com/api/icons?i=git,github,docker,npm,pnpm,gradle,prettier,dbeaver,vercel,cloudflare&theme=dark&perline=7" />
+<br><br>
 
+<p><strong>OS, Apps & Design</strong></p>
+<img src="https://skills.syvixor.com/api/icons?i=ubuntu,windows,googlechrome,vscode,intellijidea,figma,ps,affinity&theme=dark&perline=7" />
+<br><br>
 
-## Get in touch!
-- [kamil-kazaniecki](https://www.linkedin.com/in/kamil-kazaniecki/) on LinkedIn<br>
-- [@kznlabs](./) on Discord
-- also visit [kznlabs.com](kznlabs.com)
+<p><strong>Familiar With / Legacy Stack</strong></p>
+<img src="https://skills.syvixor.com/api/icons?i=php,python,phpstorm,webstorm,pycharm&theme=dark&perline=7" />
+<br><br>
 
-or send me a ✉️ [mail](mailto:contact@kznlabs.com)
+<details>
+  <summary><b>👀 Click here for text version</b></summary>
+  <br>
+  <ul>
+    <li><b>Languages & Core:</b> TypeScript, JavaScript, Java, Kotlin, HTML, CSS, Sass</li>
+    <li><b>Frameworks & Backend:</b> Bun, Node.js, ElysiaJS, Express, React, Next.js, Tailwind CSS, Tailwind Merge, Styled Components, WXT, Discord.js, PaperMC, MySQL</li>
+    <li><b>DevOps, Tools & Cloud:</b> Git, GitHub, Docker, npm, pnpm, Gradle, Prettier, DBeaver, Vercel, Cloudflare</li>
+    <li><b>OS, Apps & Design:</b> Ubuntu, Windows, Google Chrome, VS Code, IntelliJ IDEA, Figma, Adobe Photoshop, Affinity</li>
+    <li><b>Familiar With / Legacy:</b> PHP, PhpStorm, WebStorm, PyCharm</li>
+  </ul>
+</details>
+
+---
+
+### Stats & Activity
+
+<div align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://res.cloudinary.com/dyj92ukij/image/fetch/r_6/https://raw.githubusercontent.com/kkazzann/kkazzann/refs/heads/output/github-contribution-grid-snake.gif" alt="github snake" />
+</div>
+
+---
+
+### Featured Projects
+
+<a href="https://github.com/kkazzann/clippy">
+  <img src="./profile/clippy.svg" alt="clippy" />
+</a>
+
+<a href="https://github.com/chunkware/website">
+  <img src="./profile/chunkware.svg" alt="chunkware.com" />
+</a>
+
+---
+
+### Let's Connect
+
+> [!IMPORTANT]
+> My portfolio contact page is currently under construction. Please use direct email to reach out: **contact@kznlabs.com**
+
+<p>Hit me up to talk about tech, web apps, Minecraft plugins, or just to say hi!</p>
+<a href="https://kznlabs.com/contact">
+  <img src="https://skills.syvixor.com/api/icons?i=discord,linkedin,x,threads,gmail,whatsapp&theme=dark" alt="Contact Me" />
+</a>
