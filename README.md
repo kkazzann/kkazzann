@@ -62,7 +62,7 @@ I'm Kamil, a full-stack developer based in <img valign="middle" src="https://fla
 <div align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" />
   <br><br>
-  <img src="https://res.cloudinary.com/dyj92ukij/image/fetch/r_6/https://raw.githubusercontent.com/kkazzann/kkazzann/refs/heads/output/github-contribution-grid-snake.gif" alt="github snake" />
+  <img src="https://raw.githubusercontent.com/kkazzann/kkazzann/refs/heads/output/github-contribution-grid-snake.svg" alt="github snake" />
 </div>
 
 ---
