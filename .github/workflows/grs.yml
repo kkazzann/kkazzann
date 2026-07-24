@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
 
       - name: Generate Top Langs card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=radical&hide_border=true&layout=compact
@@ -30,7 +30,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
 
       - name: Generate Clippy Pin
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: pin
           options: username=${{ github.repository_owner }}&repo=clippy&theme=radical&hide_border=true
@@ -38,7 +38,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
 
       - name: Generate Chunkware Pin
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: pin
           # Dopasowane bezpośrednio do organizacji chunkware i repozytorium website, które wskazałeś w linku
