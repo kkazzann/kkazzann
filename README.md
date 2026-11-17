@@ -4,87 +4,65 @@
 
 # Good morning, Night City
 
-I'm Kamil, a full-stack developer based in <img valign="middle" src="https://flagpedia.net/data/flags/emoji/twitter/256x256/pl.png" width="20" /> Poland. I focus on building fast, stable, and modern web applications. Lately, I've been dropping Node.js to build high-performance backends with <img valign="middle" width="20" src="https://skills.syvixor.com/api/icons?i=bun&theme=dark" /> Bun and <img valign="middle" width="20" src="https://skills.syvixor.com/api/icons?i=elysia&theme=dark" /> ElysiaJS. I also dive into the <img valign="middle" width="20" src="https://skills.syvixor.com/api/icons?i=papermc&theme=dark" /> Minecraft ecosystem, developing custom plugins and forks using <img valign="middle" width="20" src="https://skills.syvixor.com/api/icons?i=kotlin&theme=dark" /> Kotlin & <img valign="middle" width="20" src="https://skills.syvixor.com/api/icons?i=java&theme=dark" /> Java.
+I'm Kamil, a fullstack developer from Szczecin, <img valign="middle" src="https://flagpedia.net/data/flags/emoji/twitter/256x256/pl.png" width="20" /> Poland. I build internal tools for e-commerce teams: browser extensions, APIs, Figma plugins, and AI agents that handle the repetitive weekly work on their own. In my spare time I build **labsUI**.
 
-> [!NOTE]
-> My portfolio is currently a work in progress, but the core content is already up and running.
+🔗 **[kznlabs.com](https://kznlabs.com)** · ✉️ **contact@kznlabs.com**
 
-🔗 **Portfolio:** [kznlabs.com](https://kznlabs.com)
-
-### Current Focus
+### What I'm working on
 
 - **Status:** Open to new projects, collaborations, and full-stack opportunities.
-- **Stack:** TypeScript, Bun, ElysiaJS, React, Next.js, Kotlin
-- **Previous Experience:** PHP, Python
+- **[labsUI](https://kznlabs.github.io/labsUI)**: accessible React components with one spring for every motion. Copy them in with a CLI or let your AI agent add them over MCP. WCAG 2.2 AA checked in CI across Chromium, Firefox and WebKit.
+- **AI automation at work**: Claude Code agents and MCP servers that build and QA a weekly newsletter for 21 shops.
+- **Main stack:** TypeScript, React, Next.js, Bun, ElysiaJS, WXT
 
-<img src="./profile/top-langs.svg" alt="Top Langs" />
+<img src="./profile/top-langs.svg" alt="Top languages" />
 
 ---
 
-### Tech Stack
+### Tech stack
 
-<p><strong>Languages & Core</strong></p>
-<img src="https://skills.syvixor.com/api/icons?i=ts,js,java,kotlin,html,css,sass&theme=dark&perline=7" />
+<p><strong>Languages & core</strong></p>
+<img src="https://skills.syvixor.com/api/icons?i=ts,js,html,css,sass,python&theme=dark&perline=7" />
 <br><br>
 
-<p><strong>Frameworks & Backend (Web & Gaming)</strong></p>
-<img src="https://skills.syvixor.com/api/icons?i=bun,nodejs,elysiajs,express,react,nextjs,tailwindcss,tailwindmerge,styledcomponents,wxt,discordjs,papermc,mysql&theme=dark&perline=7" />
+<p><strong>Frameworks & backend</strong></p>
+<img src="https://skills.syvixor.com/api/icons?i=react,nextjs,tailwindcss,bun,nodejs,elysiajs,express,wxt,mongodb&theme=dark&perline=7" />
 <br><br>
 
-<p><strong>DevOps, Tools & Cloud</strong></p>
-<img src="https://skills.syvixor.com/api/icons?i=git,github,docker,npm,pnpm,gradle,prettier,dbeaver,vercel,cloudflare&theme=dark&perline=7" />
+<p><strong>DevOps & tools</strong></p>
+<img src="https://skills.syvixor.com/api/icons?i=git,github,githubactions,docker,linux,vercel,cloudflare,figma&theme=dark&perline=7" />
 <br><br>
 
-<p><strong>OS, Apps & Design</strong></p>
-<img src="https://skills.syvixor.com/api/icons?i=ubuntu,windows,googlechrome,vscode,intellijidea,figma,ps,affinity&theme=dark&perline=7" />
-<br><br>
-
-<p><strong>Familiar With / Legacy Stack</strong></p>
-<img src="https://skills.syvixor.com/api/icons?i=php,python,phpstorm,webstorm,pycharm&theme=dark&perline=7" />
+<p><strong>Also worked with</strong></p>
+<img src="https://skills.syvixor.com/api/icons?i=kotlin,java,papermc,gradle,discordjs&theme=dark&perline=7" />
 <br><br>
 
 <details>
-  <summary><b>👀 Click here for text version</b></summary>
+  <summary><b>👀 Text version</b></summary>
   <br>
   <ul>
-    <li><b>Languages & Core:</b> TypeScript, JavaScript, Java, Kotlin, HTML, CSS, Sass</li>
-    <li><b>Frameworks & Backend:</b> Bun, Node.js, ElysiaJS, Express, React, Next.js, Tailwind CSS, Tailwind Merge, Styled Components, WXT, Discord.js, PaperMC, MySQL</li>
-    <li><b>DevOps, Tools & Cloud:</b> Git, GitHub, Docker, npm, pnpm, Gradle, Prettier, DBeaver, Vercel, Cloudflare</li>
-    <li><b>OS, Apps & Design:</b> Ubuntu, Windows, Google Chrome, VS Code, IntelliJ IDEA, Figma, Adobe Photoshop, Affinity</li>
-    <li><b>Familiar With / Legacy:</b> PHP, PhpStorm, WebStorm, PyCharm</li>
+    <li><b>Languages:</b> TypeScript, JavaScript, HTML, CSS/Sass, Python</li>
+    <li><b>Frameworks & backend:</b> React, Next.js, Tailwind CSS, Bun, Node.js, ElysiaJS, Express, WXT, MongoDB</li>
+    <li><b>AI:</b> Claude Code, MCP servers, AI agents</li>
+    <li><b>DevOps & tools:</b> Git, GitHub Actions, Docker, Linux (AlmaLinux), PM2, Turborepo, Vercel, Cloudflare, Figma plugins</li>
+    <li><b>Also worked with:</b> Kotlin, Java, PaperMC, Gradle, Discord.js</li>
   </ul>
 </details>
 
 ---
 
-### Stats & Activity
+### Activity
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" alt="GitHub streak" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/kkazzann/kkazzann/refs/heads/output/github-contribution-grid-snake.svg" alt="github snake" />
+  <img src="https://raw.githubusercontent.com/kkazzann/kkazzann/refs/heads/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </div>
 
 ---
 
-### Featured Projects
+### Let's connect
 
-<a href="https://github.com/kkazzann/clippy">
-  <img src="./profile/clippy.svg" alt="clippy" />
-</a>
-
-<a href="https://github.com/chunkware/website">
-  <img src="./profile/chunkware.svg" alt="chunkware.com" />
-</a>
-
----
-
-### Let's Connect
-
-> [!IMPORTANT]
-> My portfolio contact page is currently under construction. Please use direct email to reach out: **contact@kznlabs.com**
-
-<p>Hit me up to talk about tech, web apps, Minecraft plugins, or just to say hi!</p>
-<a href="https://kznlabs.com/contact">
-  <img src="https://skills.syvixor.com/api/icons?i=discord,linkedin,x,threads,gmail,whatsapp&theme=dark" alt="Contact Me" />
-</a>
+<a href="https://www.linkedin.com/in/kamil-kazaniecki/"><img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:contact@kznlabs.com"><img src="https://skills.syvixor.com/api/icons?i=gmail" alt="Email" height="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://kznlabs.com"><img src="https://skills.syvixor.com/api/icons?i=googlechrome" alt="kznlabs.com" height="40" /></a>
